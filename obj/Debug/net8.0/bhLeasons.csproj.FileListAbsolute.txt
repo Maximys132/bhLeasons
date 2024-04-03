@@ -1,0 +1,14 @@
+J:\Progers fun\bhLeasons\bin\Debug\net8.0\bhLeasons.exe
+J:\Progers fun\bhLeasons\bin\Debug\net8.0\bhLeasons.deps.json
+J:\Progers fun\bhLeasons\bin\Debug\net8.0\bhLeasons.runtimeconfig.json
+J:\Progers fun\bhLeasons\bin\Debug\net8.0\bhLeasons.dll
+J:\Progers fun\bhLeasons\bin\Debug\net8.0\bhLeasons.pdb
+J:\Progers fun\bhLeasons\obj\Debug\net8.0\bhLeasons.GeneratedMSBuildEditorConfig.editorconfig
+J:\Progers fun\bhLeasons\obj\Debug\net8.0\bhLeasons.AssemblyInfoInputs.cache
+J:\Progers fun\bhLeasons\obj\Debug\net8.0\bhLeasons.AssemblyInfo.cs
+J:\Progers fun\bhLeasons\obj\Debug\net8.0\bhLeasons.csproj.CoreCompileInputs.cache
+J:\Progers fun\bhLeasons\obj\Debug\net8.0\bhLeasons.dll
+J:\Progers fun\bhLeasons\obj\Debug\net8.0\refint\bhLeasons.dll
+J:\Progers fun\bhLeasons\obj\Debug\net8.0\bhLeasons.pdb
+J:\Progers fun\bhLeasons\obj\Debug\net8.0\bhLeasons.genruntimeconfig.cache
+J:\Progers fun\bhLeasons\obj\Debug\net8.0\ref\bhLeasons.dll
