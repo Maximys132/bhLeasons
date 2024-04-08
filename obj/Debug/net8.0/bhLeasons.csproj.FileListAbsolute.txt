@@ -12,3 +12,4 @@ J:\Progers fun\bhLeasons\obj\Debug\net8.0\refint\bhLeasons.dll
 J:\Progers fun\bhLeasons\obj\Debug\net8.0\bhLeasons.pdb
 J:\Progers fun\bhLeasons\obj\Debug\net8.0\bhLeasons.genruntimeconfig.cache
 J:\Progers fun\bhLeasons\obj\Debug\net8.0\ref\bhLeasons.dll
+J:\Progers fun\bhLeasons\obj\Debug\net8.0\bhLeasons.sourcelink.json

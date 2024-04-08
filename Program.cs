@@ -1,3 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
-string s = "Hello, belhard";
-Console.WriteLine(s);
+﻿float price = 100;
+float tax = 1.1f;
+
+float total = price + tax;
+
+Console.WriteLine(total);
